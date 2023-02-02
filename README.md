@@ -18,14 +18,6 @@ The Bondbreaking C++ Model can be used to model the bondbreaking effect in PMMA 
 
 No known bugs or issues.
 
-## Contribution Guidelines
-
-If you would like to contribute, please contact the author.
-
 ## Acknowledgements
 
 This project was developed as part of Mels Habold's Bachelor thesis.
-
-## License
-
-This project is licensed under the terms of the MIT license.
